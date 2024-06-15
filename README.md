@@ -12,4 +12,4 @@ I have used some of the advanced SQL Functionalities including:
 4) Audit Table 
 5) Triggers for Audit Table
 
-This is full full-fledged project that can be used for showcasing intermediate to advanced SQL Functionalities. 
+This is full-fledged project that can be used for showcasing intermediate to advanced SQL Functionalities. 
